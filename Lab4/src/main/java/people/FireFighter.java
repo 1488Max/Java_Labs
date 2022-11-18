@@ -1,0 +1,15 @@
+package people;
+
+
+public
+class FireFighter extends Person {
+
+    public FireFighter(String name) {
+        super(name);
+    }
+
+    @Override
+    public String getName() {
+        return super.getName();
+    }
+}
